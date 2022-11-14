@@ -1,0 +1,9 @@
+{
+    "name": "Carolus III",
+    "localisation": [
+        "localisation.json"
+    ],
+    "decisions": [
+        "decisions.json"
+    ]
+}

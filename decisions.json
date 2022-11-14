@@ -1,0 +1,32 @@
+{
+    "GBR_Rename_to_Carolus": {
+        "title": "GBR_Rename_to_Carolus.title",
+        "desc": "GBR_Rename_to_Carolus.desc",
+        "allowed": {
+            "type": "and",
+            "triggers": [
+                {
+                    "type": "scope",
+                    "tag": "GBR"
+                }
+            ]
+        },
+        "visible": {
+            "type": "and",
+            "triggers": [
+            ]
+        },
+        "available": {
+            "type": "and",
+            "triggers": [
+            ]
+        },
+        "effects": [
+            {
+                "type": "set_person_name",
+                "person": "GBR_Charles_III",
+                "name": "GBR_Carolus_III"
+            }
+        ]
+    }
+}
