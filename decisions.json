@@ -6,7 +6,7 @@
             "type": "and",
             "triggers": [
                 {
-                    "type": "scope",
+                    "type": "tag",
                     "tag": "GBR"
                 }
             ]
