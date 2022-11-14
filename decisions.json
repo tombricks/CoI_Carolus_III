@@ -2,6 +2,7 @@
     "GBR_Rename_to_Carolus": {
         "title": "GBR_Rename_to_Carolus.title",
         "desc": "GBR_Rename_to_Carolus.desc",
+        "fire_only_once": true,
         "allowed": {
             "type": "and",
             "triggers": [
